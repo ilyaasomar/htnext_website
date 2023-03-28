@@ -8,7 +8,7 @@ export const metadata = {
   referrer: "origin-when-cross-origin",
   keywords: ["Hirsad", "Hirsad Technology", "Hirsad iT Solution"],
   authors: [{ name: "Ilyas" }, { name: "Hirsad", url: "https://hirsad.com" }],
-  colorScheme: "dark",
+  // colorScheme: "dark",
   creator: "Ilyas Omar",
   publisher: "Ilyas Omar",
   alternates: {},
